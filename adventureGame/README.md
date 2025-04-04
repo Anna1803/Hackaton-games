@@ -8,6 +8,7 @@ __You are Indy. you enter an ancient jungle dungeon rumoured to hold the crown o
 Welcome to the jungle! <br> 
 
 #### present two stages:
+
 1. The right path
 2. The wrong path
 
