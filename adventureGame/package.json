@@ -1,0 +1,16 @@
+{
+  "name": "adventuregame",
+  "version": "1.0.0",
+  "description": "**Short description** <br>\r Game concept: Indiana Jones and the tomb of trials!",
+  "main": "adventrure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
